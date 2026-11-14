@@ -1,1 +1,0 @@
-WELL DENT Android project.
