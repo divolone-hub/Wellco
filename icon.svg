@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
-  <rect width="512" height="512" rx="112" fill="#8B1D24"/>
-  <circle cx="256" cy="256" r="210" fill="#FFFFFF"/>
-  <path d="M168 124C120 124 96 164 96 220C96 284 128 356 160 404C176 428 192 420 208 388C224 356 240 332 256 332C272 332 288 356 304 388C320 420 336 428 352 404C384 356 416 284 416 220C416 164 392 124 344 124C304 124 280 148 256 148C232 148 208 124 168 124Z" stroke="#8B1D24" stroke-width="24" fill="#FFF1F2"/>
-  <text x="256" y="268" text-anchor="middle" fill="#8B1D24" font-family="Arial, sans-serif" font-size="54" font-weight="900">WELL DENT</text>
-</svg>
