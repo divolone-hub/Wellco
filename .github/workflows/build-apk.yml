@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Unpack project
-        run: unzip -o WELL_DENT_ANDROID_GITHUB_UPLOAD.zip -d .
+        run: unzip -o WELL_DENT_ANDROID_OFFLINE_SOURCE.zip -d .
 
       - uses: actions/setup-java@v4
         with:
